@@ -1,0 +1,5 @@
+{
+  "name": "ATS Simulator",
+  "description": "Analyzes a CV against a job description to simulate ATS scoring and job fit.",
+  "requestFramePermissions": []
+}
